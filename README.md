@@ -1,7 +1,7 @@
 # Crestron Modules For Catch Connect Integration
 A suite of Crestron modules to integrate with Catch Connect.
 
-##Getting Started
+## Getting Started
 1. Download and unzip the archive.
 2. Load the program to a Crestron 3-series processor.
 3. Start the XPanel and use CTRL+H to enter the IP of your Crestron processor (IP-ID 03).
